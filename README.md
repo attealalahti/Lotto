@@ -6,4 +6,5 @@ This is a program made for a school assignment as a learning exercise. It asks t
 The user can also give their desired lottery numbers straight through the parameters. They can see all lottery numbers, when more numbers match, if they wish.
 
 Screenshot:
+
 ![screenshot](https://github.com/attealalahti/Lotto/blob/main/images/screenshot.png)
